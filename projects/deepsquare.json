@@ -1,0 +1,17 @@
+{
+	"name": "DeepSquare",
+	"slug": "deepsquare",
+	"date": "2022-03-16",
+	"highlight": "Decentralized cloud computing ecosystem enables supercomputing for AI, rendering, and other heavy workloads, providing limitless computational power and fostering collaboration and innovation",
+	"logo": "/img/deepsquare.svg",
+	"tags": ["utility", "infrastructure", "ecosystem", "dapp"],
+	"status": "live",
+	"website": "https://www.deepsquare.io/",
+	"twitter": "https://twitter.com/DeepSQUAREio",
+	"summary": "DeepSquare is a gamechanger in the world of cloud computing, with a unique business and delivery model that is owned, served, and grown by an expanding community of actors in its inclusive ecosystem. Its foundation of sustainability offers a serverless experience with intelligent workload distribution, providing a unified experience across all clouds. As businesses increasingly utilize generative AI and other advanced technologies, DeepSquare's supercomputer performance meets the growing demand for compute power. With a focus on cost efficiency and fair and transparent pricing, DeepSquare offers an ideal alternative to the costly, complex, and centralized clouds.",
+	"telegram": "https://t.me/DeepSquareProject",
+	"discord": "https://discord.gg/3PQkJGvUGB",
+	"docs": "https://docs.deepsquare.run/docs/Introduction/overview",
+	"github": "https://github.com/deepsquare-io/the-grid"
+
+}
